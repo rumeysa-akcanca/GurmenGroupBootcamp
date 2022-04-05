@@ -1,6 +1,6 @@
 ﻿namespace BridgeDesignPattern
 {
-    //Abstraction : Soyutlama
+    //Abstraction 
     public abstract class Payment
         {
             public IPaymentSystem _paymentSystem; 
