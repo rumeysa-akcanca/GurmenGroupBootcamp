@@ -7,10 +7,10 @@
             {
                 Console.WriteLine("Using CityBank gateway for " + paymentsystem);
             }
-        //ödeme arayüzünden implementasyon alan concrete sınıf banka1ödeme sistemi 
+        //ödeme arayüzünden implementasyon alan concrete sınıf banka ödeme sistemi 
         //oluşturuldu
         
-        // ödeme işlemi olarak citybankasının ödemesi +
+      
 
         }
 
